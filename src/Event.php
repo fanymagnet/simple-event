@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace fanymagnet;
+namespace fanymagnet\event;
 
 class Event
 {
