@@ -4,6 +4,12 @@ declare(strict_types = 1);
 
 namespace fanymagnet\event;
 
+use RuntimeException;
+
+/**
+ * Class Event
+ * @package fanymagnet\event
+ */
 class Event
 {
     /**
